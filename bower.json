@@ -1,0 +1,28 @@
+{
+  "name": "json-extender",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ManRueda/json-extender",
+  "authors": [
+    "Manuel Rueda <manuel.rueda.un@gmail.com>"
+  ],
+  "description": "JSON object extender",
+  "main": "dist/JSONExtender.min.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "json",
+    "extender",
+    "schema"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
